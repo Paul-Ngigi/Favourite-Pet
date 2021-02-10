@@ -4,12 +4,9 @@
 ## Description
 {This application gives details about my favourite pets, their hobbies and what they love to do}
 ## Setup/Installation Requirements
-* 
-* 
-* 
-* 
-* 
-{}
+* Google Chrome
+*  Firefox
+
 ## Known Bugs
 {There are currently no bugs to date (10/2/2021)}
 ## Technologies Used
@@ -37,5 +34,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.} **{List of contributors or company name}**
+SOFTWARE.} **{Paul Ngigi}**
   
